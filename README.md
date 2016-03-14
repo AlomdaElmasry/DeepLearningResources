@@ -15,6 +15,10 @@ Tutorial on Recurrent NN with links to code - http://www.wildml.com/2015/09/recu
 A DeepNN with R+H2O for digits - http://discuss.analyticsvidhya.com/t/script-in-h2o-in-r-to-get-you-into-top-30-percentile-for-the-digit-recognizer-competition/6651 <BR>
 Another R Blog for R+H2O on some small datasets - http://www.r-bloggers.com/things-to-try-after-user-part-1-deep-learning-with-h2o/ <BR>
 Tips for improving H2O Deep Learning performance - http://www.lauradhamilton.com/10-tips-for-better-deep-learning-models <BR>
+Github for CNN on Theano+Python for Digits - https://github.com/mnielsen/neural-networks-and-deep-learning <BR>
+Theano download and documentation - http://deeplearning.net/software/theano/ <BR>
+Code for running LSTM RNN Language Models - https://github.com/karpathy/char-rnn <BR>
+Download, installation, documentation for Lua+Torch - http://torch.ch/docs/getting-started.html#_ <BR>
 
 ### Kaggle Competitions/Blogs with DL 
 XXX

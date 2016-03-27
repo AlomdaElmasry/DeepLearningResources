@@ -4,6 +4,7 @@ Links to Text, Code and Demos for Deep Learning Meetups
 ### Neural Networks Basics
 Pattern Classification, by Duda,Hart,Stork - http://www.amazon.com/Pattern-Classification-2nd-Computer-Manual/dp/0471703508/ref=sr_1_1?ie=UTF8&qid=1457133173&sr=8-1&keywords=pattern+classification <BR>
 Neural Networks for Pattern Classification, by Bishop - http://www.amazon.com/gp/product/0198538642?keywords=neural%20networks%20for%20pattern%20recognition&qid=1457129785&ref_=sr_1_1&sr=8-1 <BR>
+Basic Backpropagation Example - http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/ <BR>
 
 ### Deep Learning Tutorials / Blogs
 All things Deep Learning - http://deeplearning.net <BR>

@@ -22,4 +22,6 @@ Code for running LSTM RNN Language Models - https://github.com/karpathy/char-rnn
 Download, installation, documentation for Lua+Torch - http://torch.ch/docs/getting-started.html#_ <BR>
 
 ### Kaggle Competitions/Blogs with DL 
-XXX
+Whale Recognition (1st place blog) - http://blog.kaggle.com/2016/01/29/noaa-right-whale-recognition-winners-interview-1st-place-deepsense-io/ <BR>
+Molecular Identification (1st place blog) - http://blog.kaggle.com/2012/11/01/deep-learning-how-i-did-it-merck-1st-place-interview/ <BR>
+DeNoising Dcouments (blog) - http://colinpriest.com/2015/11/08/denoising-dirty-documents-part-11/ <BR>

@@ -11,6 +11,7 @@ All things Deep Learning - http://deeplearning.net <BR>
 Convolutional NN e-book and links to code, by Nielsen - http://neuralnetworksanddeeplearning.com <BR>
 Recurrent NN Blog (Language Models), by Karpathy - http://karpathy.github.io/2015/05/21/rnn-effectiveness/ <BR>
 Tutorial on Recurrent NN with links to code - http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/ <BR>
+Tutorial on RNN with extra detail on LSTM - http://colah.github.io/posts/2015-08-Understanding-LSTMs/ <BR>
 
 ### Other Coding Resources
 A DeepNN with R+H2O for digits - http://discuss.analyticsvidhya.com/t/script-in-h2o-in-r-to-get-you-into-top-30-percentile-for-the-digit-recognizer-competition/6651 <BR>
